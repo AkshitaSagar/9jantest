@@ -1,0 +1,121 @@
+#width{
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+p{
+  
+    color: black;
+    font-size: x-large;
+    position: relative;
+    left: 100px;
+    bottom: 60px;
+    
+}
+#align{
+    margin-left: 500px;
+    bottom: 100px;
+}
+#height{
+    width: 30px;
+    margin-left: 820px;
+    position: relative;
+    bottom: 149px;
+    
+    
+    
+   
+}
+#feedback{
+    width: 30px;
+margin-left: 870px;
+     position: relative;
+ bottom: 182px;
+}
+#setting{
+    width: 30px;
+    margin-left: 920px;
+    position: relative;
+    bottom: 214px;
+}
+#google{
+    width: 30px;
+    margin-left: 1000px;
+    position: relative;
+    bottom: 248px;
+}
+#main{
+    font-size: 270%;
+    position: relative;
+    bottom: 150px;
+}
+#icon{
+   font-size: smalle;
+   position: relative;
+   bottom: 180px;
+   color: gray;
+}
+#image{
+    margin-left: 900px;
+    position: relative;
+    bottom: 430px;
+    right: 50px;
+    width: 330px;
+}
+#meeting{
+    background-color: blue;
+   position: relative;
+   bottom: 500px;
+   left: 120px;
+   width: 150px;
+   height: 45px;
+   color: white;
+   border-radius: 10px;
+   font-size: 120%;
+}
+#code{
+    position: relative;
+    bottom: 500px;
+    left: 150px;
+    height: 45px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: large;
+}
+#hr{
+    position: relative;
+    bottom: 470px;
+    right: 340px;
+    width: 520px;
+}
+#link{
+    position: relative;
+    bottom: 500px;
+    left: 900px;
+}
+#click{
+    position: relative;
+    bottom: 520px;
+    left: 880px;
+    font-size: 15px;
+}
+#learn{
+    text-decoration: none;
+    color: blue;
+    position: relative;
+    bottom: 580px;
+    left: 120px;
+    font-size: 20px;
+}
+#more{
+    text-decoration: none;
+    position: relative;
+    bottom: 580px;
+    left: 120px;
+    font-size: 20px;
+    color: gray;
+}
+body{
+    width: 100%;
+}
